@@ -2,6 +2,8 @@
 
 This document outlines the flow of the "Book a Doctor" application, which allows users to register, browse doctors, book appointments, and manage healthcare consultations. Below is a detailed step-by-step walkthrough of the process.
 
+![image](https://github.com/user-attachments/assets/1f8694de-9748-4903-9843-d5cc4dfd55a3)
+
 ---
 
 ## Scenario: Booking an Appointment with a Doctor
