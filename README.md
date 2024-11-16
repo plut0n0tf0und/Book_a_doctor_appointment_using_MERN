@@ -1,4 +1,4 @@
-# Scenario-Based Case Study: Booking an Appointment with a Doctor
+# Booking an Appointment with a Doctor
 
 This document outlines the flow of the "Book a Doctor" application, which allows users to register, browse doctors, book appointments, and manage healthcare consultations. Below is a detailed step-by-step walkthrough of the process.
 
